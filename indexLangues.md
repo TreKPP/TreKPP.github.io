@@ -10,9 +10,9 @@ Ce site utilisera quelques termes de la typologie des langues. Pour en apprendre
 
 Voici les langues proposées : 
 
-- Langues romanes
-- Allemand
+- [Langues romanes](languesRomanes.md)
+- [Allemand](allemand.md)
 - [Japonais](japonais.md)
-- Coréen
-- Mandarin
-- Arabe
+- [Coréen](coréen.md)
+- [Mandarin](mandarin.md)
+- [Arabe](arabe.md)
