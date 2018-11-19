@@ -9,6 +9,7 @@
 | **Type de langue** | Agglutinante |
 | **Famille de langues** | Japonique |
 | **Système d'écriture** | Kanji, Hiragana et Katakana |
+| **Nombre de locuteurs natifs** | 128 millions |
 
 Le japonais comporte divers niveaux de formalité selon à qui l'on s'adresse.
 
