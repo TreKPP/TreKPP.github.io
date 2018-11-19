@@ -147,7 +147,7 @@ Certains caractères ont des prononciations irrégulières :
 - Di (ヂ) -> Ji
 - Du (ヅ) -> Dzu
 
-Les katakanas sont utilisés principalement pour les mots d'origine étrangère, les noms d'animaux et les onomatopées.
+Les katakanas sont utilisés principalement pour les mots d'origine étrangère, les noms d'animaux, les onomatopées et pour faire ressortir des mots qui seraient normalement écrits avec des hiraganas ou kanjis, similaire à l'italique ou mettre en gras.
 
 ##### Exemples (Katakanas en bleu)
 
