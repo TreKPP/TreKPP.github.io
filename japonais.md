@@ -329,3 +329,7 @@ Quelques couleurs :
 |Gris|灰色|haiiro
 |Or|金色|kin'iro
 |Argent|銀色|gin'iro
+
+## Bibliographie
+
+Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
