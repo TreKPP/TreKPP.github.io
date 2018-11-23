@@ -334,4 +334,4 @@ Quelques couleurs :
 
 ## Bibliographie
 
-Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
+- Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
