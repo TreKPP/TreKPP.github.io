@@ -13,7 +13,7 @@
 
 Le japonais comporte divers niveaux de formalité selon à qui l'on s'adresse.
 
-Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette](typologie.md) page pour les clarifier!
+Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette page](typologie.md) pour les clarifier!
 
 ## Je pomme mange... L'ordre des mots SOV!
 
