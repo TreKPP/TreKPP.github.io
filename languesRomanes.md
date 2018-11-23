@@ -6,7 +6,7 @@
 | Caractéristique | Langues romanes |
 |---|---|
 | **Ordre des mots** | SVO |
-| **Type de langue** | Flexionnelle |
+| **Type de langues** | Flexionnelles |
 | **Famille de langues** | Romanes, Indo-européennes |
 | **Système d'écriture** | Alphabet latin |
 | **Nombre de locuteurs natifs de l'espagnol** | 437 millions |
