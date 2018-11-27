@@ -332,6 +332,21 @@ Quelques couleurs :
 |Or|金色|kin'iro
 |Argent|銀色|gin'iro
 
+Compter de 1 à 10 :
+
+|Français|Japonais|Translittération|
+|---|---|---|
+|Un|一|Ichi
+|Deux|ニ|Ni
+|Trois|三|San
+|Quatre|四|Yon/Shi
+|Cinq|五|Go
+|Six|六|Roku
+|Sept|七|Shichi/Nana
+|Huit|八|Hachi
+|Neuf|九|Kyuu/ku
+|Dix|十|Juu
+
 ## Bibliographie
 
 - Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
