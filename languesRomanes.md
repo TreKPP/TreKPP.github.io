@@ -8,7 +8,7 @@
 | **Ordre des mots** | SVO |
 | **Type de langues** | Flexionnelles |
 | **Famille de langues** | Romanes, Indo-européennes |
-| **Système d'écriture** | Alphabet latin |
+| **Système d'écriture** | Alphabet latin avec quelques ajouts ou retraits selon la langue |
 | **Nombre de locuteurs natifs de l'espagnol** | 437 millions |
 | **Nombre de locuteurs totaux de l'espagnol** | 513 millions |
 | **Nombre de locuteurs natifs du portugais** | 219 millions |
