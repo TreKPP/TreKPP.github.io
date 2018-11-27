@@ -48,3 +48,7 @@ C'est la façon dont la langue est écrite.
 ### Nombre de locuteurs natifs
 
 C'est le nombre de personnes qui parlent la langue en tant que leur langue maternelle.
+
+### Nombre de locuteurs total
+
+C'est le nombre de personnes qui parlent la langue en tant que langue maternelle ou apprise.
