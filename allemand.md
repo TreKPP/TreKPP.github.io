@@ -14,6 +14,15 @@
 
 Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette page](typologie.md) pour les clarifier!
 
+## À vos marques, prêts... Écrivez! 
+
+L'allemand utilise l'alphabet latin avec quelques additions que voici : 
+
+- ß (eszett), lu *ss* comme dans *ma**ss**ue*. Exemple : *Der Fußball* signifiant *le ballon de soccer/football*
+- Ä, lu *è* comme dans *l**ait***. Exemple : *Das Mädchen* signifiant *la fille*
+- Ö, lu *eu* comme dans *p**eu***. Exemple : *Österreich* signifiant *Autriche*
+- Ü, lu *u* comme dans *l**u***. Exemple : *Die Füße* signifiant *les pieds*
+
 ## Plus besoin d'une loupe pour trouver les noms communs!
 
 Les noms communs sont tous munis d'une majuscule comme première lettre, ce qui les rend facile à repérer. On peut donc facilement voir avec quoi accorder nos autres mots! Ainsi, *Katze* signifiant *chat* aura toujours son *k* majuscule, tandis que *grau* signifiant gris sera muni d'un *g* minuscule.
