@@ -14,7 +14,31 @@
 
 Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette page](typologie.md) pour les clarifier!
 
+## Plus besoin d'une loupe pour trouver les noms communs!
+
+Les noms communs sont tous munis d'une majuscule comme première lettre, ce qui les rend facile à repérer. On peut donc facilement voir avec quoi accorder nos autres mots! Ainsi, *Katze* signifiant *chat* aura toujours son *k* majuscule, tandis que *grau* signifiant gris sera muni d'un *g* minuscule.
+ 
+## Pas un, pas deux, mais trois genres! <!-- Continuer -->
+
+L'allemand ne comporte pas seulement deux genres pour les noms, mais trois : **masculin**, **féminin** et **neutre**. On dira donc *der Mann* (L'homme, masculin), *das Auto* (L'automobile, neutre) et *die Katze* (Le chat, féminin).
+
 ## Le complément direct ou indirect... Une différence importante!
+
+Commençons tout d'abord par éclaircir ce qu'est une déclinaison. La déclinaison est très similaire à la conjugation, la plus grande différence étant que l'on accorde le mot non pas seulement avec le genre et le nombre, mais aussi avec selon à quoi sert le mot dans la phrase. À quoi sert le mot est appelé le **cas**. L'allemand est une langue à déclinaison, nous pouvons le voir dans cet exemple montrant les déterminants définis *le/la/les* (La première rangée nomme les cas) :
+
+|Genre/Nombre|Nominatif|Accusatif|Datif|Génitif|
+|-|-|-|-|-|
+|Masculin|der|den|||
+|Féminin|die|die|||
+|Neutre|das|das|||
+|Pluriel|die|die|||
+
+Différencions donc ces quatre cas : 
+
+- Nominatif :
+- Accusatif : 
+- Datif :
+- Génitif :
 
 ## Bibliographie 
 
