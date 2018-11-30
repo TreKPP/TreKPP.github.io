@@ -52,3 +52,13 @@ C'est le nombre de personnes qui parlent la langue en tant que leur langue mater
 ### Nombre de locuteurs total
 
 C'est le nombre de personnes qui parlent la langue en tant que langue maternelle ou apprise.
+
+## Bibliographie
+
+CRYSTAL, David, ROBINS, Robert Henry. Language -- Britannica Academic, 9 mai 2017, Adresse URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/language/108460#27199.toc
+
+Encyclopédie Britannica. Agglutination, 10 février 2009, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/agglutination/4025
+
+Encyclopédie Britannica. Inflection, 10 février 2009, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/inflection/42395
+
+HAMP, Eric P., LYONS, John, IVIĆ, PAvle. Linguistics -- Britannica Academia, 17 février 2012, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/linguistics/110292
