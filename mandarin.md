@@ -7,7 +7,7 @@
 | **Ordre des mots** | SVO |
 | **Type de langue** | Isolante |
 | **Famille de langues** | Sino-tibétaine |
-| **Système d'écriture** | Caractère chinois (Hànzì) |
+| **Système d'écriture** | Caractères chinois (Hànzì) |
 | **Nombre de locuteurs natifs** | 1,284 milliard |
 
 Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette page](typologie.md) pour les clarifier!
