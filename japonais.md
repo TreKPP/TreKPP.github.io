@@ -28,7 +28,9 @@ Prenons pour exemple la phrase « Je mange une pomme. » Cette phrase sera écri
 
 Mot par mot, cette phrase se traduit par « <span style="color:blue">Je (sujet)</span> <span style="color:red">pomme (objet)</span> <span style="color:green">mange</span>. »
 
-Les mots n'ont d'ailleurs pas de genre ni de nombre en japonais. (Sauf quelques exceptions)
+La raison pourquoi *(sujet)* et *(objet)* ont été inscrits est dûe au fait que le japonais est une **langue agglutinante**, dans la phrase précédente, ces informations sont représentées par *は* (wa) pour démontrer que *私* (watashi, je) est le **sujet**, et *を* (o) pour montrer que *りんご* (ringo, pomme) est l'**objet**.
+
+Une autre particularité à la grammaire japonaise est que les noms n'ont pas de genre ni de nombre en japonais. (Sauf quelques exceptions)
 
 ## À vos marques, prêts... écrivez!
 
@@ -36,7 +38,7 @@ Le système d'écriture japonais se divise en deux grandes familles : Les kanji 
 
 ### Les kanjis (漢字)
 
-Les kanjis sont des caractères d'origine chinoise qui sont d'usage dans la langue japonaise. Selon le gouvernement japonais, 2136 kanjis sont nécessaires à la vie quotidienne au Japon, ces 2136 kanjis sont enseignés tout au long de la scolarité pré-universitaire. Un kanji a une signification précise et souvent plusieurs prononciations selon le mot dans lequel il se trouve. Les kanjis ont souvent une prononciation dérivée de la langue chinoise ainsi qu'une prononciation d'origine japonaise. Prenons par exemple ce caractère : 
+Les kanjis sont des caractères d'origine chinoise qui sont d'usage dans la langue japonaise. Selon le gouvernement japonais, **2136 kanjis** sont nécessaires à la vie quotidienne au Japon, ces 2136 kanjis sont enseignés tout au long de la scolarité pré-universitaire. Un kanji a une signification précise et souvent plusieurs prononciations selon le mot dans lequel il se trouve. Les kanjis ont souvent une prononciation dérivée de la langue chinoise ainsi qu'une prononciation d'origine japonaise. Prenons par exemple ce caractère : 
 
 **食**
 
@@ -70,7 +72,7 @@ Les kanjis sont utilisés dans la majorités des noms communs et propres en japo
 
 ### Deux alphabets phonétiques! 
 
-Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. Il y a 71 hiraganas et 71 katakanas, incluant les kanas accentués.
+Les kanas se divisent en deux grandes familles : Les hiraganas, les katakanas. Les deux alphabets se lisent de la même façon mais ont des usages différents. Contrairement aux kanjis, les kanas sont phonétiques, c'est-à-dire qu'un kana se lit toujours de la même façon et démontre un son et non un mot. Il y a **71 hiraganas et 71 katakanas, incluant les kanas accentués**.
 
 #### Hiragana
 
@@ -350,3 +352,4 @@ Compter de 1 à 10 :
 ## Bibliographie
 
 - Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
+- Me citer!
