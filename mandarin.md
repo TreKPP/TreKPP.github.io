@@ -22,11 +22,17 @@ Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette 
 
 Voici les principales façons de construire une phrase en mandarin : 
 
+- Le sujet est en <span style="color:blue">bleu</span>.
+- Le verbe (groupe du verbe) est en <span style="color:green">vert</span>.
+- L'objet est en <span style="color:red">rouge</span>.
+
 ### Sujet - Verbe
+
+<span style="color:blue">他</span><span style="color:green">微笑</span>。（<span style="color:blue">Tā</span> <span style="color:green">wéixiào</span>）signifiant *<span style="color:blue">Il</span> <span style="color:green">sourit</span>*.
 
 ### Sujet - Verbe - Objet
 
-我喝茶。(Wǒ hē chá) signifiant *Je bois du thé*
+<span style="color:blue">我</span><span style="color:green">喝</span><span style="color:red">茶</span>。(<span style="color:blue">Wǒ</span> <span style="color:green">hē</span> <span style="color:red">chá</span>) signifiant *<span style="color:blue">Je</span> <span style="color:green">bois</span> <span style="color:red">du thé</span>*.
 
 ## Des expressions fréquemment utilisées!
 
