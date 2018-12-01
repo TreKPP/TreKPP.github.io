@@ -88,48 +88,66 @@ Voici quelques expressions utiles :
 
 ## Un peu de vocabulaire!
 
-|Français|Mandarin|Translittération|
-|---|---|---|
-||||
-||||
-||||
-||||
-
 **Quelques aliments**
 
 |Français|Mandarin|Translittération|
 |---|---|---|
-||||
-||||
-||||
-||||
+|Fruit|水果|shuíguǒ|
+|Légume|蔬菜|shūcài|
+|Lait|牛奶|niúnǎi|
+|Viande|肉|ròu|
+|Eau|可饮用的水|kě yǐnyòng de shuǐ|
+|Fromage|奶酪|Nǎilào|
+|Bonbon|糖果|tángguǒ|
+|Riz|米(饭)|mǐ(fàn)|
+|Pain|面包|miànbāo|
+|Oeuf|蛋|dàn|
+|Sauce soja|酱油|jiàngyóu|
 
 **Quelques animaux**
 
 |Français|Mandarin|Translittération|
 |---|---|---|
-||||
-||||
-||||
-||||
+|Chat|猫|māo|
+|Chien|狗|gǒu|
+|Oiseau|鸟|niǎo|
+|Poisson|鱼|yú|
+|Renard|狐狸|húli|
+|Loup|狼|láng|
+|Lion|狮子|shīzi|
+|Panda|熊猫|xióngmāo|
+|Tigre|老虎|láohǔ|
 
 **Quelques couleurs**
 
 |Français|Mandarin|Translittération|
 |---|---|---|
-||||
-||||
-||||
-||||
+|Blanc|白色|báisè|
+|Jaune|黄色的|huángsè de|
+|Vert|绿色的|lǜsè de|
+|Bleu|蓝色的|lánsè de|
+|Violet|紫色的|zǐsè de|
+|Rouge|红色的|hóngsè de|
+|Orange|橙色的|chéngsè de|
+|Rose|粉红色的|fěnhóngsè de|
+|Marron|栗色的|lìsè de|
+|Gris|灰色的|huīsè de|
+|Noir|黑的|hēi de|
 
 **Compter de 1 à 10**
 
 |Français|Mandarin|Translittération|
 |---|---|---|
-||||
-||||
-||||
-||||
+|Un|一|yī|
+|Deux|二|èr|
+|Trois|三|sān|
+|Quatre|四|sì|
+|Cinq|五|wǔ|
+|Six|六|liù|
+|Sept|七|qī|
+|Huit|八|bā|
+|Neuf|九|jiǔ|
+|Dix|十|shí|
 
 ## Bibliographie
 
