@@ -353,3 +353,4 @@ Compter de 1 à 10 :
 
 - Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
 - Me citer!
+- AGER, Simon. Index of languages by language family, 2018, URL : http://www.omniglot.com/writing/langfam.htm
