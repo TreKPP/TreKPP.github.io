@@ -12,8 +12,6 @@
 
 Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette page](typologie.md) pour les clarifier!
 
-## Chinois ou mandarin ?
-
 ## À vos marques, prêts... Écrivez!
 
 Le mandarin utilise les caractères chinois comme système d'écriture. Voici donc une liste des principales caractéristiques de ce système :
