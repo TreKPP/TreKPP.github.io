@@ -16,9 +16,20 @@ Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette 
 
 ## À vos marques, prêts... Écrivez!
 
+Le mandarin utilise les caractères chinois comme système d'écriture. Voici donc une liste des principales caractéristiques de ce système :
+
+- En tout il y a près de 40000 caractères chinois. 
+- Une personne chinoise normale en connait près de 4000.
+- Il existe deux systèmes de caractères, les caractères traditionnels et simplifiés. 
+- Près de 2000 caractères simplifiés ont été instaurés en 1949 en Chine, ils sont aussi utilisés à Singapour.
+- Les caractères traditionnels sont utilisé par Taïwan, par Hong Kong, par Macau et par la Malaisie.
+- Chaque caractère représente un mot, un concept ou une idée.
+
 ## Que sont tous ces accents sur la translittération? Un système de tons!
 
-## Commençons par le commencement... La phrase de base!
+Le mandarin est une langue **tonale**, c'est à dire que les voyelles sont prononcées différemment selon le ton utilisé. Ce système permet de différencier des mots qui seraient homophones sans cela. Il est important de bien prononcer le ton car cela peut changer le mot et donc le sens de la phrase.
+
+## La phrase de base!
 
 Voici les principales façons de construire une phrase en mandarin : 
 
@@ -45,5 +56,6 @@ Voici les principales façons de construire une phrase en mandarin :
 - OLSON, David R. Chinese Writing, 14 mars 2014, URL : https://www.britannica.com/topic/Chinese-writing
 - Learn Chinese with ChineseClass101.com. Learn Chinese in 30 minutes - ALL the Basics You Need, 10 novembre 2017, URL  : https://www.youtube.com/watch?v=QOpQf3fi2N4&t=438s 
 - CHINESEPOD. Tones, 2018, URL : https://chinesepod.com/tools/pronunciation/section/17#
+- AGER, Simon. Index of languages by language family, 2018, URL : http://www.omniglot.com/writing/langfam.htm
 
 
