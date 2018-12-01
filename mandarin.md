@@ -18,7 +18,7 @@ Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette 
 
 Le mandarin utilise les caractères chinois comme système d'écriture. Voici donc une liste des principales caractéristiques de ce système :
 
-- En tout il y a près de 40000 caractères chinois. 
+- En tout il y a près de 85000 caractères chinois. 
 - Une personne chinoise normale en connait près de 4000.
 - Il existe deux systèmes de caractères, les caractères traditionnels et simplifiés. 
 - Près de 2000 caractères simplifiés ont été instaurés en 1949 en Chine, ils sont aussi utilisés à Singapour.
@@ -72,7 +72,64 @@ Le caractère *ma* est marqué en <span style="color:orange">orange</span>.
 
 ## Des expressions fréquemment utilisées!
 
+Voici quelques expressions utiles : 
+
+*Bonjour, je m'appelle (prénom, nom)* : 你好我叫（Nom, prénom)。 (Nǐ hǎo wǒ jiào (Nom, Prénom))
+
+*Je suis un étudiant du mandarin* : 我是中文学生。(Wǒ shì Zhо̄ngwén xuésheng)
+
+*Merci* : 谢谢。(Xièxie)
+
+*Merci beaucoup* : 太谢谢了。(Tài xièxie le)
+
+*Il n'y a pas de quoi me remercier* : 不用谢。(Bù yòng xiè)
+
+*Désolé(e)* : 对不起。(Duì bu qǐ)
+
 ## Un peu de vocabulaire!
+
+|Français|Mandarin|Translittération|
+|---|---|---|
+||||
+||||
+||||
+||||
+
+**Quelques aliments**
+
+|Français|Mandarin|Translittération|
+|---|---|---|
+||||
+||||
+||||
+||||
+
+**Quelques animaux**
+
+|Français|Mandarin|Translittération|
+|---|---|---|
+||||
+||||
+||||
+||||
+
+**Quelques couleurs**
+
+|Français|Mandarin|Translittération|
+|---|---|---|
+||||
+||||
+||||
+||||
+
+**Compter de 1 à 10**
+
+|Français|Mandarin|Translittération|
+|---|---|---|
+||||
+||||
+||||
+||||
 
 ## Bibliographie
 
@@ -83,5 +140,7 @@ Le caractère *ma* est marqué en <span style="color:orange">orange</span>.
 - CHINESEPOD. Tones, 2018, URL : https://chinesepod.com/tools/pronunciation/section/17#
 - AGER, Simon. *Index of languages by language family*, 2018, URL : http://www.omniglot.com/writing/langfam.htm
 - LAROUSSE. *Dictionnaire Français-Chinois en ligne - Larousse*, 2018, URL : https://www.larousse.fr/dictionnaires/francais-chinois 
-
-
+- CRYSTAL, David, ROBINS, Robert Henry. *Language -- Britannica Academic*, 9 mai 2017, Adresse URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/language/108460#27199.toc
+- Encyclopédie Britannica. *Inflection*, 10 février 2009, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/inflection/42395
+- HAMP, Eric P., LYONS, John, IVIĆ, PAvle. *Linguistics -- Britannica Academia*, 17 février 2012, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/linguistics/110292
+- WIKIPÉDIA, *Zhonghua Zihai*, 5 octobre 2017, URL: https://en.wikipedia.org/wiki/Zhonghua_Zihai
