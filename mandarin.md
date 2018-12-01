@@ -43,13 +43,13 @@ Bien sûr, ceci peut sembler assez abstrait pour ceux qui ne connaissent pas la 
 
 ## La phrase de base!
 
-Voici les principales façons de construire une phrase en mandarin : 
+Voici les principales façons de construire une phrase simple en mandarin : 
 
 - Le sujet est en <span style="color:blue">bleu</span>.
 - Le verbe (groupe du verbe) est en <span style="color:green">vert</span>.
 - L'objet est en <span style="color:red">rouge</span>.
 
-### Sujet - Verbe
+### <span style="color:blue">Sujet</span> - <span style="color:green">Verbe</span>
 
 <span style="color:blue">他</span><span style="color:green">微笑</span>。（<span style="color:blue">Tā</span> <span style="color:green">wéixiào</span>）signifiant *<span style="color:blue">Il</span> <span style="color:green">sourit</span>*.
 
@@ -63,12 +63,12 @@ Le marqueur de temps sera marqué en <span style="color:black">noir</span>
 
 <span style="color:blue">我</span><span style="color:black">明天</span><span style="color:green">学习</span><span style="color:red">数学</span>。(<span style="color:blue">Wǒ</span> <span style="color:black">míngtiān</span> <span style="color:green">xuéxí</span> <span style="color:red">shùxué</span>) signifiant *<span style="color:black">Demain</span>, <span style="color:blue">j'</span><span style="color:green">étudierai</span> <span style="color:red">les mathématiques</span>*.
 
-### Sujet - Verbe - Objet - *ma*
+### <span style="color:blue">Sujet</span> - <span style="color:green">Verbe</span> - <span style="color:red">Objet</span> - *<span style="color:orange">ma</span>*
 
 Cette forme est utilisée pour des questions qui se répondent par oui ou non. 
 Le caractère *ma* est marqué en <span style="color:orange">orange</span>.
 
-你有猫吗。(Nǐ yǒu māo ma) signifiant *Est-ce que tu as un chat?* 
+<span style="color:blue">你</span><span style="color:green">有</span><span style="color:red">猫</span><span style="color:orange">吗</span>。(<span style="color:blue">Nǐ</span> <span style="color:green">yǒu</span> <span style="color:red">māo</span> <span style="color:orange">ma</span>) signifiant *<span style="color:orange">Est-ce que</span> <span style="color:blue">tu</span> <span style="color:green">as</span> <span style="color:red">un chat</span><span style="color:orange">?</span>* 
 
 ## Des expressions fréquemment utilisées!
 
