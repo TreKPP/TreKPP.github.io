@@ -160,3 +160,4 @@ Voici quelques expressions utiles :
 - Encyclopédie Britannica. *Inflection*, 10 février 2009, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/inflection/42395
 - HAMP, Eric P., LYONS, John, IVIĆ, PAvle. *Linguistics -- Britannica Academia*, 17 février 2012, URL : https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/linguistics/110292
 - WIKIPÉDIA, *Zhonghua Zihai*, 5 octobre 2017, URL: https://en.wikipedia.org/wiki/Zhonghua_Zihai
+- AGER, Simon. Simplified Chinese characters (简体字), 2018, URL : https://www.omniglot.com/chinese/simplified.htm
