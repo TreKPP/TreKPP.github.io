@@ -27,7 +27,19 @@ Le mandarin utilise les caractères chinois comme système d'écriture. Voici do
 
 ## Que sont tous ces accents sur la translittération? Un système de tons!
 
-Le mandarin est une langue **tonale**, c'est à dire que les voyelles sont prononcées différemment selon le ton utilisé. Ce système permet de différencier des mots qui seraient homophones sans cela. Il est important de bien prononcer le ton car cela peut changer le mot et donc le sens de la phrase.
+Le mandarin est une langue **tonale**, c'est à dire que les voyelles sont prononcées différemment selon le ton utilisé. Ce système permet de différencier des mots qui seraient homophones sans cela. 
+
+- 1er ton : Prononcé haut et fort de façon homogène (Représenté par une ligne droite au dessus de la voyelle)
+- 2e ton : Commence modéré et termine haut (Représenté par un accent aigu)
+- 3e ton : Commence bas, se rend plus bas puis remonte haut (Représenté par un petit *v*)
+- 4e ton : Commence haut et se termine bas (Représenté par un accent grave)
+- 5e ton : Aucun ton particulier (Aucune particularité lors de l'écriture)
+
+Bien sûr, ceci peut sembler assez abstrait pour ceux qui ne connaissent pas la langue, mais il est important de bien prononcer puisque le mot peut changer de sens totalement si l'on prononce mal le ton. Par exemple :
+
+四 (sì) signifie *quatre*
+
+死 (sǐ) signifie *mourir*
 
 ## La phrase de base!
 
@@ -51,11 +63,12 @@ Voici les principales façons de construire une phrase en mandarin :
 
 ## Bibliographie
 
-- ALAN. A Gentle Introduction to Chinese Sentence Structure, 30 octobre 2018, URL : https://www.fluentu.com/blog/chinese/2013/10/30/chinese-sentence-structure/
+- ALAN. *A Gentle Introduction to Chinese Sentence Structure*, 30 octobre 2018, URL : https://www.fluentu.com/blog/chinese/2013/10/30/chinese-sentence-structure/
 - Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
-- OLSON, David R. Chinese Writing, 14 mars 2014, URL : https://www.britannica.com/topic/Chinese-writing
-- Learn Chinese with ChineseClass101.com. Learn Chinese in 30 minutes - ALL the Basics You Need, 10 novembre 2017, URL  : https://www.youtube.com/watch?v=QOpQf3fi2N4&t=438s 
+- OLSON, David R. *Chinese Writin*, 14 mars 2014, URL : https://www.britannica.com/topic/Chinese-writing
+- Learn Chinese with ChineseClass101.com. *Learn Chinese in 30 minutes - ALL the Basics You Need*, 10 novembre 2017, URL  : https://www.youtube.com/watch?v=QOpQf3fi2N4&t=438s 
 - CHINESEPOD. Tones, 2018, URL : https://chinesepod.com/tools/pronunciation/section/17#
-- AGER, Simon. Index of languages by language family, 2018, URL : http://www.omniglot.com/writing/langfam.htm
+- AGER, Simon. *Index of languages by language family*, 2018, URL : http://www.omniglot.com/writing/langfam.htm
+- LAROUSSE. *Dictionnaire Français-Chinois en ligne - Larousse*, 2018, URL : https://www.larousse.fr/dictionnaires/francais-chinois 
 
 
