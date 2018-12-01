@@ -65,6 +65,11 @@ Le marqueur de temps sera marqué en <span style="color:black">noir</span>
 
 ### Sujet - Verbe - Objet - *ma*
 
+Cette forme est utilisée pour des questions qui se répondent par oui ou non. 
+Le caractère *ma* est marqué en <span style="color:orange">orange</span>.
+
+你有猫吗。(Nǐ yǒu māo ma) signifiant *Est-ce que tu as un chat?* 
+
 ## Des expressions fréquemment utilisées!
 
 ## Un peu de vocabulaire!
