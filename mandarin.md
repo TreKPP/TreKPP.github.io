@@ -17,7 +17,7 @@ Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette 
 Le mandarin utilise les caractères chinois comme système d'écriture. Voici donc une liste des principales caractéristiques de ce système :
 
 - En tout il y a près de 85000 caractères chinois. 
-- Une personne chinoise normale en connait près de 4000.
+- Une personne chinoise normale en connait près de **4000**.
 - Il existe deux systèmes de caractères, les caractères traditionnels et simplifiés. 
 - Près de 2000 caractères simplifiés ont été instaurés en 1949 en Chine, ils sont aussi utilisés à Singapour.
 - Les caractères traditionnels sont utilisé par Taïwan, par Hong Kong, par Macau et par la Malaisie.
@@ -35,9 +35,9 @@ Le mandarin est une langue **tonale**, c'est à dire que les voyelles sont prono
 
 Bien sûr, ceci peut sembler assez abstrait pour ceux qui ne connaissent pas la langue, mais il est important de bien prononcer puisque le mot peut changer de sens totalement si l'on prononce mal le ton. Par exemple :
 
-四 (sì) signifie *quatre*
+**四** (sì) signifie *quatre*
 
-死 (sǐ) signifie *mourir*
+**死** (sǐ) signifie *mourir*
 
 ## La phrase de base!
 
