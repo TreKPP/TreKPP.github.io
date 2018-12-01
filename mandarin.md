@@ -59,7 +59,7 @@ Voici les principales façons de construire une phrase en mandarin :
 
 ### Sujet - Marqueur de temps - Verbe - Objet
 
-Le marqueur de temps sera marqué en <span style="color:gray">gris</span>
+Le marqueur de temps sera marqué en <span style="color:black">noir</span>
 
 我明天学习数学。(Wǒ míngtiān xuéxí shùxué) signifiant *Demain j'étudierai les mathématiques*.
 
