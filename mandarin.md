@@ -57,11 +57,11 @@ Voici les principales façons de construire une phrase en mandarin :
 
 <span style="color:blue">我</span><span style="color:green">喝</span><span style="color:red">茶</span>。(<span style="color:blue">Wǒ</span> <span style="color:green">hē</span> <span style="color:red">chá</span>) signifiant *<span style="color:blue">Je</span> <span style="color:green">bois</span> <span style="color:red">du thé</span>*.
 
-### Sujet - Marqueur de temps - Verbe - Objet
+### <span style="color:blue">Sujet</span> - Marqueur de temps - Verbe - Objet
 
 Le marqueur de temps sera marqué en <span style="color:black">noir</span>
 
-我明天学习数学。(Wǒ míngtiān xuéxí shùxué) signifiant *Demain j'étudierai les mathématiques*.
+<span style="color:blue">我</span><span style="color:black">明天</span><span style="color:green">学习</span><span style="color:red">数学</span>。(<span style="color:blue">Wǒ</span> <span style="color:black">míngtiān</span> <span style="color:green">xuéxí</span> <span style="color:red">shùxué</span>) signifiant *<span style="color:black">Demain</span>, <span style="color:blue">j'</span><span style="color:green">étudierai</span> <span style="color:red">les mathématiques</span>*.
 
 ### Sujet - Verbe - Objet - *ma*
 
