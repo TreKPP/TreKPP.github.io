@@ -26,6 +26,16 @@ L'allemand utilise l'alphabet latin avec quelques additions que voici :
 ## Plus besoin d'une loupe pour trouver les noms communs!
 
 Les noms communs sont tous munis d'une majuscule comme première lettre, ce qui les rend facile à repérer. On peut donc facilement voir avec quoi accorder nos autres mots! Ainsi, *Katze* signifiant *chat* aura toujours son *k* majuscule, tandis que *grau* signifiant gris sera muni d'un *g* minuscule.
+
+## De longs mots... décomposables!
+
+La langue allemande est parfois vue comme ayant de très long mots, mais la plupart du temps ces mots se décomposent facilement en de plus petits mots. On peut ensuite deviner le sens grâce à cela! Par exemple : 
+
+*Haustier* peut se diviser ainsi : *Haus* signifiant *maison* et *Tier* signifiant *animal*. On peut déduire qu'un animal de maison est un animal de compagnie.
+
+*Krankenhaus* peut se diviser ainsi : *Kranken* signifiant *malades* et *Haus* signifiant *maison*. Ce mot signifie *hôpital*.
+ 
+ *Straßenkarte* peut se diviser ainsi : *Straßen* signifiant *rues*  et *Karte* signifiant *carte*. Ce mot signifie *carte routière*.
  
 ## Pas un, pas deux, mais trois genres! <!-- Continuer -->
 
