@@ -43,7 +43,7 @@ L'allemand ne comporte pas seulement deux genres pour les noms, mais trois : **m
 
 ## Le complément direct ou indirect... Une différence importante!
 
-Commençons tout d'abord par éclaircir ce qu'est une déclinaison. La déclinaison est très similaire à la conjugation, la plus grande différence étant que l'on accorde le mot non pas seulement avec le genre et le nombre, mais aussi avec selon à quoi sert le mot dans la phrase. À quoi sert le mot est appelé le **cas**. L'allemand est une langue à déclinaison, nous pouvons le voir dans cet exemple montrant les déterminants définis *le/la/les* (La première rangée nomme les cas) :
+Commençons tout d'abord par éclaircir ce qu'est une déclinaison. La déclinaison est très similaire à la conjugation, la plus grande différence étant que l'on accorde le mot non pas seulement avec le genre et le nombre, mais aussi avec selon à quoi sert le mot dans la phrase. À quoi sert le mot est appelé le **cas**. L'allemand est une langue à déclinaison, nous pouvons le voir dans cet exemple montrant les déterminants définis *le/la/les* (La première rangée indique les cas) :
 
 |Genre/Nombre|Nominatif|Accusatif|Datif|Génitif|
 |-|-|-|-|-|
