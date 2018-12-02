@@ -60,7 +60,9 @@ Et maintenant les déterminants indéfinis :
 |Féminin|Eine|Eine|Einer|Einer|
 |Neutre|Ein|Ein|Einem|Eines|
 
-On ne mets pas de déterminant indéfini si le mot est au pluriel.
+On ne met pas de déterminant indéfini si le mot est au pluriel.
+
+Il est important de savoir que les adjectifs se déclinent aussi selon le cas.
 
 Différencions donc ces quatre cas : 
 
@@ -68,6 +70,8 @@ Différencions donc ces quatre cas :
 - Accusatif : Cas du complément **direct**
 - Datif : Cas du complément **indirect**
 - Génitif : Cas de la **possession** 
+
+Certaines prépositions exigent l'usage d'un cas précis.
 
 ### Exemples 
 
