@@ -59,6 +59,22 @@ Différencions donc ces quatre cas :
 - Datif : Cas du complément **indirect**
 - Génitif : Cas de la **possession** 
 
+### Exemples 
+
+Voici les couleurs employées : 
+- Nominatif en <span style="color:red">rouge</span>.
+- Accusatif en <span style="color:blue">bleu</span>.
+- Datif en <span style="color:green">vert</span>.
+- Génitif en <span style="color:orange">orange</span>.
+- Le verbe n'a pas de couleur particulière.
+
+*<span style="color:red">Der Hund</span> <span style="color:orange">des Mannes</span> isst <span style="color:blue">den Knochen</span>.* signifiant *<span style="color:red">Le chien</span> <span style="color:orange">de</span> l'homme mange <span style="color:blue">l'os</span>*
+
 ## Bibliographie 
 
 - Wikipédia. List of languages by total number of speakers, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
+- FLIPPO, Hyde. Learn the 4 German Noun Cases, 12 août 2018, URL : https://www.thoughtco.com/the-four-german-noun-cases-4064290
+- Learn German with GermanPod101.com. Learn German in 25 Minutes - ALL the Basics You Need, 7 novembre 2017, URL : https://www.youtube.com/watch?v=xg60VxyK-9I
+- LAROUSSE. *Dictionnaire Français-Allemand en ligne - Larousse*, 2018, URL :  https://www.larousse.fr/dictionnaires/francais-allemand
+- WIKITIONARY. *Wikitionary, the free dictionary*, consulté le 2 décembre 2018, URL : https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+- REVERSO. *German conjugation: future, participle, irregular verbs | German Conjugator*, consulté 2 décembre 2018, URL : http://conjugator.reverso.net/conjugation-german.html
