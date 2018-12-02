@@ -25,7 +25,7 @@ L'allemand utilise l'alphabet latin avec quelques additions que voici :
 
 ## Plus besoin d'une loupe pour trouver les noms communs!
 
-Les noms communs sont tous munis d'une majuscule comme première lettre, ce qui les rend facile à repérer. On peut donc facilement voir avec quoi accorder nos autres mots! Ainsi, *Katze* signifiant *chat* aura toujours son *k* majuscule, tandis que *grau* signifiant gris sera muni d'un *g* minuscule.
+Les noms communs sont tous munis d'une majuscule comme première lettre, ce qui les rend facile à repérer. On peut donc facilement voir avec quoi accorder nos autres mots! Ainsi, ***K**atze* signifiant *chat* aura toujours son *k* majuscule, tandis que *grau* signifiant gris sera muni d'un *g* minuscule.
 
 ## De longs mots... décomposables!
 
