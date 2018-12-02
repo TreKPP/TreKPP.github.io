@@ -86,6 +86,82 @@ Voici les couleurs employées :
 
 *<span style="color:red">Meine Schwester</span> gibt <span style="color:green">dem Kind</span> <span style="color:orange">meines Freundes</span> <span style="color:blue">einen Apfel</span>.* signifiant *<span style="color:red">Ma soeur</span> donne <span style="color:blue">une pomme</span> <span style="color:green">à l'enfant</span> <span style="color:orange">de mon ami</span>.*
 
+## Des expression fréquemment utilisées!
+
+Commençons par *Bonjour, je m'appelle (Prénom Nom). Ravi(e) de faire votre connaissance.* : *Guten Tag, ich heiße (Prénom Nom).
+Schön, Sie kennenzulernen.* 
+
+|Français|Allemand|
+|-|-|
+|Bonjour|Guten Tag|
+|Bon matin|Guten Morgen|
+|Bonsoir|Guten Abend|
+|Bonne nuit|Gute Nacht|
+|Au revoir|Auf Wiedersehen|
+|Excusez-moi|Entschuldigen Sie|
+|Désolé|Es tut mir leid|
+|Merci|Danke|
+|Merci beaucoup|Danke sehr|
+
+## Un peu de vocabulaire!
+
+Quelques aliments : 
+
+|Français|Allemand|
+|-|-|
+|le fruit|die Frucht|
+|les légumes|das Gemüse|
+|la viande|das Fleisch|
+|le pain|das Brot|
+|le lait|die Milch|
+|l'eau|das Wasser|
+|la friandise|die Süßigkeit|
+|le biscuit|das Biskuit|
+
+Quelques animaux :
+
+|Français|Allemand|
+|-|-|
+|le chat|die Katze|
+|le chien|der Hund|
+|l'oiseau|der Vogel|
+|le renard|der Fuchs|
+|le loup|der Wolf|
+|le poisson|der Fisch|
+|le lapin|das Kaninchen|
+|le cheval|das Pferd|
+
+Quelques couleurs : 
+
+|Français|Allemand|
+|-|-|
+|blanc|weiß|
+|jaune|gelb|
+|vert|grün|
+|bleu|blau|
+|violet|violett|
+|rouge|rot|
+|orange|orangefarben|
+|gris|grau|
+|brun|braun|
+|rose|rosafarben|
+|noir|schwarz|
+
+Compter de 1 à 10 :
+
+|Français|Allemand|
+|-|-|
+|un|eins|
+|deux|zwei|
+|trois|drei|
+|quatre|vier|
+|cinq|fünf|
+|six|sechs|
+|sept|sieben|
+|huit|acht|
+|neuf|neun|
+|dix|zehn|
+
 ## Bibliographie 
 
 - Wikipédia. List of languages by total number of speakers, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
