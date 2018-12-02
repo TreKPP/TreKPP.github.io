@@ -68,7 +68,7 @@ Voici les couleurs employées :
 - Génitif en <span style="color:orange">orange</span>.
 - Le verbe n'a pas de couleur particulière.
 
-*<span style="color:red">Der Hund</span> <span style="color:orange">des Mannes</span> isst <span style="color:blue">den Knochen</span>.* signifiant *<span style="color:red">Le chien</span> <span style="color:orange">de</span> l'homme mange <span style="color:blue">l'os</span>*
+*<span style="color:red">Der Hund</span> <span style="color:orange">des Mannes</span> isst <span style="color:blue">den Knochen</span>.* signifiant *<span style="color:red">Le chien</span> <span style="color:orange">de</span> l'homme mange <span style="color:blue">l'os</span>.*
 
 ## Bibliographie 
 
