@@ -37,17 +37,27 @@ Commençons tout d'abord par éclaircir ce qu'est une déclinaison. La déclinai
 
 |Genre/Nombre|Nominatif|Accusatif|Datif|Génitif|
 |-|-|-|-|-|
-|Masculin|der|den|||
-|Féminin|die|die|||
-|Neutre|das|das|||
-|Pluriel|die|die|||
+|Masculin|der|den|dem|des|
+|Féminin|die|die|der|der|
+|Neutre|das|das|dem|des|
+|Pluriel|die|die|den|der|
+
+Et maintenant les déterminants indéfinis : 
+
+|Genre/Nombre|Nominatif|Accusatif|Datif|Génitif|
+|-|-|-|-|-|
+|Masculin|Ein|Einen|Einem|Eines|
+|Féminin|Eine|Eine|Einer|Einer|
+|Neutre|Ein|Ein|Einem|Eines|
+
+On ne mets pas de déterminant indéfini si le mot est au pluriel.
 
 Différencions donc ces quatre cas : 
 
-- Nominatif :
-- Accusatif : 
-- Datif :
-- Génitif :
+- Nominatif : Cas du groupe du nom **sujet**
+- Accusatif : Cas du complément **direct**
+- Datif : Cas du complément **indirect**
+- Génitif : Cas de la **possession** 
 
 ## Bibliographie 
 
