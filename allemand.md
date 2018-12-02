@@ -88,8 +88,11 @@ Voici les couleurs employées :
 
 ## Des expression fréquemment utilisées!
 
-Commençons par *Bonjour, je m'appelle (Prénom Nom). Ravi(e) de faire votre connaissance.* : *Guten Tag, ich heiße (Prénom Nom).
-Schön, Sie kennenzulernen.* 
+Commençons par se présenter : *Bonjour, je m'appelle (Prénom Nom). Ravi(e) de faire votre connaissance.*  
+
+L'équivalent allemand est : *Guten Tag, ich heiße (Prénom Nom). Schön, Sie kennenzulernen.* 
+
+Voici donc des formules de politesse fréquemment utilisées :
 
 |Français|Allemand|
 |-|-|
