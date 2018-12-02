@@ -70,6 +70,8 @@ Voici les couleurs employées :
 
 *<span style="color:red">Der Hund</span> <span style="color:orange">des Mannes</span> isst <span style="color:blue">den Knochen</span>.* signifiant *<span style="color:red">Le chien</span> <span style="color:orange">de l'homme</span> mange <span style="color:blue">l'os</span>.*
 
+*<span style="color:red">Meine Schwester</span> gibt <span style="color:green">dem Kind</span> <span style="color:orange">meines Freundes</span> <span style="color:blue">einen Apfel</span>.* signifiant *<span style="color:red">Ma soeur</span> donne <span style="color:blue">une pomme</span> <span style="color:green">à l'enfant</span> <span style="color:orange">de mon ami</span>.*
+
 ## Bibliographie 
 
 - Wikipédia. List of languages by total number of speakers, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
