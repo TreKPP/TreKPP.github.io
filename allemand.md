@@ -167,9 +167,10 @@ Compter de 1 à 10 :
 
 ## Bibliographie 
 
-- Wikipédia. List of languages by total number of speakers, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
-- FLIPPO, Hyde. Learn the 4 German Noun Cases, 12 août 2018, URL : https://www.thoughtco.com/the-four-german-noun-cases-4064290
-- Learn German with GermanPod101.com. Learn German in 25 Minutes - ALL the Basics You Need, 7 novembre 2017, URL : https://www.youtube.com/watch?v=xg60VxyK-9I
+- Wikipédia. *List of languages by total number of speakers*, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
+- FLIPPO, Hyde. *Learn the 4 German Noun Cases*, 12 août 2018, URL : https://www.thoughtco.com/the-four-german-noun-cases-4064290
+- Learn German with GermanPod101.com. *Learn German in 25 Minutes - ALL the Basics You Need*, 7 novembre 2017, URL : https://www.youtube.com/watch?v=xg60VxyK-9I
 - LAROUSSE. *Dictionnaire Français-Allemand en ligne - Larousse*, 2018, URL :  https://www.larousse.fr/dictionnaires/francais-allemand
 - WIKITIONARY. *Wikitionary, the free dictionary*, consulté le 2 décembre 2018, URL : https://en.wiktionary.org/wiki/Wiktionary:Main_Page
 - REVERSO. *<span>German conjugation: future, participle, irregular verbs | German Conjugator</span>*, consulté 2 décembre 2018, URL : http://conjugator.reverso.net/conjugation-german.html
+- Connaissances personnelles
