@@ -16,3 +16,7 @@ Voici les langues proposées :
 - [Coréen](coréen.md)
 - [Mandarin](mandarin.md)
 - [Arabe](arabe.md)
+
+## Mais, comment dois-je m'y prendre pour apprendre une langue?
+
+Pour quelques conseils à ce sujet, veuillez cliquer [ici](conseils.md)!
