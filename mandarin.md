@@ -151,7 +151,7 @@ Voici quelques expressions utiles :
 
 - ALAN. *A Gentle Introduction to Chinese Sentence Structure*, 30 octobre 2018, URL : https://www.fluentu.com/blog/chinese/2013/10/30/chinese-sentence-structure/
 - Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
-- OLSON, David R. *Chinese Writin*, 14 mars 2014, URL : https://www.britannica.com/topic/Chinese-writing
+- OLSON, David R. *Chinese Writing*, 14 mars 2014, URL : https://www.britannica.com/topic/Chinese-writing
 - Learn Chinese with ChineseClass101.com. *Learn Chinese in 30 minutes - ALL the Basics You Need*, 10 novembre 2017, URL  : https://www.youtube.com/watch?v=QOpQf3fi2N4&t=438s 
 - CHINESEPOD. Tones, 2018, URL : https://chinesepod.com/tools/pronunciation/section/17#
 - AGER, Simon. *Index of languages by language family*, 2018, URL : http://www.omniglot.com/writing/langfam.htm
