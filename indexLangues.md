@@ -19,4 +19,4 @@ Voici les langues proposées :
 
 ## Mais, comment dois-je m'y prendre pour apprendre une langue?
 
-Pour quelques conseils à ce sujet, veuillez cliquer [ici](conseils.md)!
+Veuillez cliquer [ici](conseils.md) pour consulter mes conseils par rapport à l'apprentissage d'une langue!
