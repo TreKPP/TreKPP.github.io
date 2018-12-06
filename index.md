@@ -8,7 +8,7 @@ Si vous souhaitez passer immédiatement à l'index des langues, cliquez [ici](in
 
 ### Un nouveau point de vue!
 
-Surprenamment peut-être, l'apprentissage d'une nouvelle langue nous ouvre sur de nouveaux points de vue, chose que nous avons pu remarquer lors d'une expérience effectuée par Susan Ervin-Tripp dans les années 1960 : Une femme bilingue, parlant l'anglais et le japonais répondait de **manière différente selon la langue dans laquelle elle répondait**, comme si la langue lui offrait une vision différente du même problème. Par exemple, lorsqu'on lui demandait de compléter la phrase « Quand mes souhaits sont en conflits avec ma famille... » elle répondait par « Je fais ce que je veux. » en anglais lorsqu'on lui disait la phrase en anglais, mais répondait par « C'est un temps de grande tristesse » lorsque la phrase lui était dite en en japonais. 
+Surprenamment peut-être, l'apprentissage d'une nouvelle langue nous ouvre sur de nouveaux points de vue, chose que nous avons pu remarquer lors d'une expérience effectuée par Susan Ervin-Tripp dans les années 1960 : Une femme bilingue, parlant l'anglais et le japonais répondait de **manière différente selon la langue dans laquelle elle répondait**, comme si la langue lui offrait une vision différente du même problème. Par exemple, lorsqu'on lui demandait de compléter la phrase « Quand mes souhaits sont en conflits avec ma famille... » elle répondait par « Je fais ce que je veux. » lorsqu'on lui disait la phrase en anglais, mais répondait par « C'est un temps de grande tristesse » lorsque la phrase lui était dite en en japonais. 
 
 Il a aussi été montré que les gens bilingues réussissent mieux les tests sur l'**empathie**, sur l'interprétation des sentiments des autres. 
 
