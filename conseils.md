@@ -60,6 +60,6 @@ Tentez de nommer ce que vous voyez dans la langue que vous apprenez, de cette fa
 
 ## 5 - Utiliser des listes de vocabulaire et s'évaluer
 
-Vous pouvez utiliser des listes de vocabulaire que vous vous créerez, ou que vous avez trouvées dans d'autres ressources, telles que des livres ou des sites web, pour vous aider à apprendre le vocabulaire. Une façon efficace pour vérifier vos apprentissages est de se créer un test où, par exemple, vous aurez écrit tous les mots en français (ou autre langue par laquelle vous apprenez) et où vous devrez écrire l'équivalent dans la langue que vous souhaitez apprendre. Vous pouvez aussi utiliser des tests ou exercices déjà existants dans d'autres ressources.
+Vous pouvez utiliser des **listes de vocabulaire** que vous vous créerez, ou que vous avez trouvées dans d'autres ressources, telles que des livres ou des sites web, pour vous aider à apprendre le vocabulaire. Une façon efficace pour vérifier vos apprentissages est de se créer un test où, par exemple, vous aurez écrit tous les mots en français (ou autre langue par laquelle vous apprenez) et où vous devrez écrire l'équivalent dans la langue que vous souhaitez apprendre. Vous pouvez aussi utiliser des tests ou exercices déjà existants dans d'autres ressources.
 
 De cette façon, vous pouvez vérifier si vous avez bien appris ce que vous souhaitez apprendre.
