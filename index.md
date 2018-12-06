@@ -36,7 +36,7 @@ En effet, l'apprentissage d'une langue est très souvent associé à l'apprentis
 
 Il a aussi été vu que les personnes multilingues semblent *changer* de personnalité lorsqu'ils changent de langue, pour **s'adapter à la façon de voir les choses** du peuple parlant la langue. Par exemple, dans une expérience réalisée par Lera Boroditsky, on a remarqué que les anglophones tendent à voir le temps de droite à gauche, ou de l'arrière vers l'avant, tandis que ceux parlant le mandarin tendent à le voir verticalement. 
 
-Selon John McWhorter, **« La langue est un ticket pour être capable de participer à la culture d'une peuple. »** On ne peut pas comprendre entièrement une culture sans apprendre la langue dans laquelle elle est vécue.
+Selon John McWhorter, **« La langue est un ticket pour être capable de participer à la culture d'un peuple. »** On ne peut pas comprendre entièrement une culture sans apprendre la langue dans laquelle elle est vécue.
 
 ### Y a-t-il des conditions pour maintenir ces avantages?
 
