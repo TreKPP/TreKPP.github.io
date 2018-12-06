@@ -56,10 +56,10 @@ Nous avons maintenant la chance d'avoir accès à d'innombrables vidéos et méd
 
 ## 4 - Pratiquer oralement
 
-Tentez de nommer ce que vous voyez dans la langue que vous apprenez, de cette façon les mots vont rester en mémoire, puisque vous les utilisez. Tentez de formuler des phrases qui décrivent ce que vous faites, comme *je m'en vais à l'école* ou *je mange une pomme*. Cela peut avoir l'air un peu enfantin, mais cela vous aidera à garder les mots en mémoire ainsi qu'améliorer votre prononciation.
+Tentez de **nommer ce que vous voyez dans la langue que vous apprenez**, de cette façon les mots vont rester en mémoire, puisque vous les utilisez. Tentez de formuler des phrases qui **décrivent ce que vous faites**, comme *je m'en vais à l'école* ou *je mange une pomme*. Cela peut avoir l'air un peu enfantin, mais cela vous aidera à garder les mots en mémoire ainsi qu'améliorer votre prononciation.
 
 ## 5 - Utiliser des listes de vocabulaire et s'évaluer
 
 Vous pouvez utiliser des **listes de vocabulaire** que vous vous créerez, ou que vous avez trouvées dans d'autres ressources, telles que des livres ou des sites web, pour vous aider à apprendre le vocabulaire. Une façon efficace pour vérifier vos apprentissages est de se créer un test où, par exemple, vous aurez écrit tous les mots en français (ou autre langue par laquelle vous apprenez) et où vous devrez écrire l'équivalent dans la langue que vous souhaitez apprendre. Vous pouvez aussi utiliser des tests ou exercices déjà existants dans d'autres ressources.
 
-De cette façon, vous pouvez vérifier si vous avez bien appris ce que vous souhaitez apprendre.
+De cette façon, vous pouvez **vérifier** si vous avez bien appris ce que vous souhaitez apprendre.
