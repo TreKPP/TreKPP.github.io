@@ -1,6 +1,8 @@
 [**Retour à l'index**](indexLangues.md)
 # Mes conseils pour apprendre une langue!
 
+Voici ma façon de procéder lors de l'apprentissage d'une langue!
+
 ## 1 - Commencer par apprendre quelques mots de base ainsi que la grammaire
 
 Pour commencer à apprendre une langue je recommande de commencer par quelques mots de base, mais faites bien attention d'apprendre les déterminants, quelques noms, quelques verbes et quelques adjectifs pour pouvoir créer de phrases simples. Bien sûr, pour créer de phrases simples, vous aurez à apprendre la grammaire de la langue, ce qui est le plus important au début. En effet, on ne peut pas créer de phrases sans la grammaire qui va avec celles-ci. Voici quelques catégories de mots que je recommande d'apprendre dès le début : 
@@ -22,7 +24,7 @@ Pour commencer à apprendre une langue je recommande de commencer par quelques m
   - Adjectifs simples décrivant ce que l'on peut voir (*grand, petit, beau, long, court, mignon,* etc.)
   - Émotions (*heureux, triste, effrayé, en colère,* etc.)
 
-Apprenez en priorité ce qui vous entoure, et tentez de nommer les objets que vous voyez dans la langue que vous souhaitez apprendre.
+**Apprenez en priorité ce qui vous entoure**, et tentez de nommer les objets que vous voyez dans la langue que vous souhaitez apprendre.
 
 Pour la grammaire, apprendre à former des phrases simples, comment accorder les mots et comment prononcer est le plus important selon moi.
 
@@ -40,7 +42,7 @@ Si vous souhaitez apprendre le japonais, commencez par apprendre l'alphabet *hir
 
 Il est important, particulièrement pour les langues utilisant les caractères chinois, d'écrire et réécrire le caractère pour s'en souvenir! Créez des phrases contenant les caractères que vous venez d'apprendre pour en avoir une idée plus concrète. Les caractères peuvent parfois être similaires, il faut donc faire attention à cela.
 
-### Vous souhaitez apprendre une langue ayant un système d'écriture différent du nôtre? C'est par ici!
+### Vous souhaitez apprendre une langue ayant un système d'écriture différent de l'alphabet latin (le nôtre)? C'est par ici!
 
 Commencez par apprendre le système d'écriture de la langue que vous souhaitez apprendre! Cela facilitera l'accès à certaines ressources, telles que les dictionnaires!
 
@@ -55,3 +57,9 @@ Nous avons maintenant la chance d'avoir accès à d'innombrables vidéos et méd
 ## 4 - Pratiquer oralement
 
 Tentez de nommer ce que vous voyez dans la langue que vous apprenez, de cette façon les mots vont rester en mémoire, puisque vous les utilisez. Tentez de formuler des phrases qui décrivent ce que vous faites, comme *je m'en vais à l'école* ou *je mange une pomme*. Cela peut avoir l'air un peu enfantin, mais cela vous aidera à garder les mots en mémoire ainsi qu'améliorer votre prononciation.
+
+## 5 - Utiliser des listes de vocabulaire et s'évaluer
+
+Vous pouvez utiliser des listes de vocabulaire que vous vous créerez, ou que vous avez trouvées dans d'autres ressources, telles que des livres ou des sites web, pour vous aider à apprendre le vocabulaire. Une façon efficace pour vérifier vos apprentissages est de se créer un test où, par exemple, vous aurez écrit tous les mots en français (ou autre langue par laquelle vous apprenez) et où vous devrez écrire l'équivalent dans la langue que vous souhaitez apprendre. Vous pouvez aussi utiliser des tests ou exercices déjà existants dans d'autres ressources.
+
+De cette façon, vous pouvez vérifier si vous avez bien appris ce que vous souhaitez apprendre.
