@@ -141,13 +141,23 @@ Quelques aliments :
 |Le pain|El pan|Il pane|O pão
 |La sucrerie|El dulce|Il dolciume|O rebuçado
 |Le fruit|La fruta|Il frutto|O fruto
-|Le légume|La verdura|Il ortaggio|
-|Le biscuit|La galleta|Il biscotto|
+|Le légume|La verdura|Il ortaggio|O legume
+|Le biscuit|La galleta|Il biscotto|O biscoito
 
 Compter de un à dix : 
 
 |Français|Espagnol|Italien|Portugais|
 |-|-|-|-|
+|Un|
+|Deux|
+|Trois|
+|Quatre|
+|Cinq|
+|Six|
+|Sept|
+|Huit|
+|Neuf|
+|Dix|
 
 ## Bibliographie
 
