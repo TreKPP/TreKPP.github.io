@@ -118,17 +118,17 @@ Quelques couleurs :
 
 |Français|Espagnol|Italien|Portugais|
 |-|-|-|-|
-|Blanc|Blanco|Bianco|
-|Jaune|Amarillo|Giallo|
-|Vert|Verde|Verde|
-|Bleu|Azul|Blu|
-|Violet|Violeta|Viola|
-|Rouge|Rojo|Rosso|
-|Orange|Naranja|Arancio|
-|Rose|Rosa|Rosa|
-|Brun|Moreno|Bruno|
-|Gris|Gris|Grigio|
-|Noir|Negro|Noir|
+|Blanc|Blanco|Bianco|Branco
+|Jaune|Amarillo|Giallo|Amarelo
+|Vert|Verde|Verde|Verde
+|Bleu|Azul|Blu|Azul
+|Violet|Violeta|Viola|Violeta
+|Rouge|Rojo|Rosso|Vermelho
+|Orange|Naranja|Arancio|Cor de laranja
+|Rose|Rosa|Rosa|Cor-de-rosa
+|Brun|Moreno|Bruno|Castanho
+|Gris|Gris|Grigio|Cinzento
+|Noir|Negro|Nero|Preto
 
 Quelques aliments : 
 
