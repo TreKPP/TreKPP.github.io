@@ -148,16 +148,16 @@ Compter de un à dix :
 
 |Français|Espagnol|Italien|Portugais|
 |-|-|-|-|
-|Un|
-|Deux|
-|Trois|
-|Quatre|
-|Cinq|
-|Six|
-|Sept|
-|Huit|
-|Neuf|
-|Dix|
+|Un|Uno|Uno|Um
+|Deux|Dos|Due|Dois
+|Trois|Tres|Tre|Três
+|Quatre|Cuatro|Quattro|Quatro
+|Cinq|Cinco|Cinque|Cinco
+|Six|Seis|Sei|Seis|
+|Sept|Siete|Sette|Sete
+|Huit|Ocho|Otto|Oito
+|Neuf|Nueve|Nove|Nove
+|Dix|Diez|Dieci|Dez
 
 ## Bibliographie
 
