@@ -105,14 +105,14 @@ Quelques animaux :
 
 |Français|Espagnol|Italien|Portugais|
 |-|-|-|-|
-|Le chat|El gato|Il gatto|
-|Le chien|El perro|Il cane|
-|L'oiseau|El pájaro|Il uccello|
-|Le poisson|El pez|Il pesce|
-|Le renard|El zorro|La volpe|
-|Le loup|El lobo|Il lupo|
-|Le lapin|El conejo|Il coniglio|
-|La vache|La vaca|La vacca|
+|Le chat|El gato|Il gatto|O gato
+|Le chien|El perro|Il cane|O cão
+|L'oiseau|El pájaro|Il uccello|O pássaro
+|Le poisson|El pez|Il pesce|O peixe
+|Le renard|El zorro|La volpe|A raposa
+|Le loup|El lobo|Il lupo|O lobo
+|Le lapin|El conejo|Il coniglio|O coelho
+|La vache|La vaca|La vacca|A vaca
 
 Quelques couleurs : 
 
