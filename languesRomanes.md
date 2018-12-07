@@ -63,7 +63,7 @@ Le roumain ne pouvant pas être comparé facilement aux autres langues, il ne fe
 
 (Ialien) Io mangio una mela.
 
-(Portugais)
+(Portugais) Eu como uma maçã.
 
 ---
 
@@ -73,7 +73,7 @@ Le roumain ne pouvant pas être comparé facilement aux autres langues, il ne fe
 
 (Italien) Noi leggiamo un libro.
 
-(Portugais)
+(Portugais) Nós lemos um libro.
 
 --- 
 
@@ -83,12 +83,80 @@ Le roumain ne pouvant pas être comparé facilement aux autres langues, il ne fe
 
 (Italien) Lei canta una canzone.
 
-(Portugais)
+(Portugais) Ela canta uma canção.
 
 ### Des expression fréquemment utilisées!
+
+Voici des expressions courantes : 
+
+|Français|Espagnol|Italien|Portugais|
+|-|-|-|-|
+|Bonjour|Buenos días|Buongiorno|Bom dia|
+|Au revoir|Adiós|Arrivederci|Adeus|
+|Merci|Gracias|Grazie|Obrigado (a)|
+|De rien|De nada|Di niente|De nada|
+|Il n'y a pas de quoi|No hay de qué|Non c'è di che|Não há de quê|
+|Je m'appelle...|Me llamo...| Mi chiamo...| Me chamo...|
+|Je suis désolé|Lo siento|Mi dispiace|Desculpe-me|
+
+### Un peu de vocabulaire!
+
+Quelques animaux : 
+
+|Français|Espagnol|Italien|Portugais|
+|-|-|-|-|
+|Le chat|El gato|Il gatto|
+|Le chien|El perro|Il cane|
+|L'oiseau|El pájaro|Il uccello|
+|Le poisson|El pez|Il pesce|
+|Le renard|El zorro|La volpe|
+|Le loup|El lobo|Il lupo|
+|Le lapin|El conejo|Il coniglio|
+|La vache|La vaca|La vacca|
+
+Quelques couleurs : 
+
+|Français|Espagnol|Italien|Portugais|
+|-|-|-|-|
+|Blanc|Blanco|Bianco|
+|Jaune|Amarillo|Giallo|
+|Vert|Verde|Verde|
+|Bleu|Azul|Blu|
+|Violet|Violeta|Viola|
+|Rouge|Rojo|Rosso|
+|Orange|Naranja|Arancio|
+|Rose|Rosa|Rosa|
+|Brun|Moreno|Bruno|
+|Gris|Gris|Grigio|
+|Noir|Negro|Noir|
+
+Quelques aliments : 
+
+|Français|Espagnol|Italien|Portugais|
+|-|-|-|-|
+|La pomme|La manzana|La mela|
+|La banane|El plátano|La banana|
+|La viande|La carne|La carne|
+|Le lait|La leche|Il latte|
+|Le pain|El pan|Il pane|
+|La sucrerie|El dulce|Il dolciume|
+|Le fruit|La fruta|Il frutto|
+|Le légume|La verdura|Il ortaggio|
+|Le biscuit|La galleta|Il biscotto|
+
+Compter de un à dix : 
+
+|Français|Espagnol|Italien|Portugais|
+|-|-|-|-|
 
 ## Bibliographie
 
 - Wikipédia. List of languages by total number of speakers, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
 - Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
 - THOMPSON, Irene. Romance Branch, 31 janvier 2017, URL : http://aboutworldlanguages.com/romance-branch
+- WAGNER, Jennifer. Romance Languages Vocabulary: Common Phrases in French, Spanish, Italian, and Portuguese, 2018, URL : https://ielanguages.com/romance_phrases.html
+- REVERSO. Dictionnaire portugais français | traduction portugais français | Reverso, 2018, URL : https://dictionnaire.reverso.net/portugais-francais/
+- LAROUSSE. Dictionnaire Français-Espagnol en ligne - Larousse, 2018, URL : https://www.larousse.fr/dictionnaires/francais-espagnol
+- REVERSO. Conjugaison verbe portugais, modèles de conjugaison | Conjugueur Reverso, 2018, URL : http://conjugueur.reverso.net/conjugaison-portugais.html
+- REVERSO. Conjugaison verbe italien, verbes irréguliers | Conjugueur Reverso, 2018, URL : http://conjugueur.reverso.net/conjugaison-italien.html
+- LAROUSSE. Dictionnaire Français-Italien en ligne - Larousse, 2018, URL : https://www.larousse.fr/dictionnaires/francais-italien
