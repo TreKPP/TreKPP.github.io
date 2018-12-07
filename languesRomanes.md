@@ -134,13 +134,13 @@ Quelques aliments :
 
 |Français|Espagnol|Italien|Portugais|
 |-|-|-|-|
-|La pomme|La manzana|La mela|
-|La banane|El plátano|La banana|
-|La viande|La carne|La carne|
-|Le lait|La leche|Il latte|
-|Le pain|El pan|Il pane|
-|La sucrerie|El dulce|Il dolciume|
-|Le fruit|La fruta|Il frutto|
+|La pomme|La manzana|La mela|A maçã
+|La banane|El plátano|La banana|A banana
+|La viande|La carne|La carne|A carne
+|Le lait|La leche|Il latte|A leite
+|Le pain|El pan|Il pane|O pão
+|La sucrerie|El dulce|Il dolciume|O rebuçado
+|Le fruit|La fruta|Il frutto|O fruto
 |Le légume|La verdura|Il ortaggio|
 |Le biscuit|La galleta|Il biscotto|
 
