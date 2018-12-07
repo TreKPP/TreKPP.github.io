@@ -161,12 +161,12 @@ Compter de un à dix :
 
 ## Bibliographie
 
-- Wikipédia. List of languages by total number of speakers, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
-- Statista. The World’s Most Spoken Languages, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
-- THOMPSON, Irene. Romance Branch, 31 janvier 2017, URL : http://aboutworldlanguages.com/romance-branch
-- WAGNER, Jennifer. Romance Languages Vocabulary: Common Phrases in French, Spanish, Italian, and Portuguese, 2018, URL : https://ielanguages.com/romance_phrases.html
-- REVERSO. Dictionnaire portugais français | traduction portugais français | Reverso, 2018, URL : https://dictionnaire.reverso.net/portugais-francais/
-- LAROUSSE. Dictionnaire Français-Espagnol en ligne - Larousse, 2018, URL : https://www.larousse.fr/dictionnaires/francais-espagnol
-- REVERSO. Conjugaison verbe portugais, modèles de conjugaison | Conjugueur Reverso, 2018, URL : http://conjugueur.reverso.net/conjugaison-portugais.html
-- REVERSO. Conjugaison verbe italien, verbes irréguliers | Conjugueur Reverso, 2018, URL : http://conjugueur.reverso.net/conjugaison-italien.html
-- LAROUSSE. Dictionnaire Français-Italien en ligne - Larousse, 2018, URL : https://www.larousse.fr/dictionnaires/francais-italien
+- Wikipédia. *List of languages by total number of speakers*, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
+- Statista. *The World’s Most Spoken Languages*, 12 février 2018, URL : https://www.statista.com/chart/12868/the-worlds-most-spoken-languages/
+- THOMPSON, Irene. *Romance Branch*, 31 janvier 2017, URL : http://aboutworldlanguages.com/romance-branch
+- WAGNER, Jennifer. *Romance Languages Vocabulary: Common Phrases in French, Spanish, Italian, and Portuguese*, 2018, URL : https://ielanguages.com/romance_phrases.html
+- REVERSO. *<span>Dictionnaire portugais français | traduction portugais français | Reverso</span>*, 2018, URL : https://dictionnaire.reverso.net/portugais-francais/
+- LAROUSSE. *Dictionnaire Français-Espagnol en ligne - Larousse*, 2018, URL : https://www.larousse.fr/dictionnaires/francais-espagnol
+- REVERSO. *<span>Conjugaison verbe portugais, modèles de conjugaison | Conjugueur Reverso</span>*, 2018, URL : http://conjugueur.reverso.net/conjugaison-portugais.html
+- REVERSO. *<span>Conjugaison verbe italien, verbes irréguliers | Conjugueur Reverso</span>*, 2018, URL : http://conjugueur.reverso.net/conjugaison-italien.html
+- LAROUSSE. *Dictionnaire Français-Italien en ligne - Larousse*, 2018, URL : https://www.larousse.fr/dictionnaires/francais-italien
