@@ -17,6 +17,8 @@ Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette 
 
 ## À vos marques, prêts... Écrivez!
 
+### 40 lettres!
+
 Le coréen possède un alphabet appelé *hangeul* (한글). Cet alphabet comporte 19 consonnes et peut representer jusqu'à 21 voyelles, parfois en utilisant deux lettres. Voici l'ensemble des lettres :
 
 (Les sons sont représentés à l'aide d'une translittération)
@@ -44,6 +46,14 @@ Le coréen possède un alphabet appelé *hangeul* (한글). Cet alphabet comport
 |ㅎ|h|t||ㅢ|ui
 |||||ㅣ|i
 |||||ㅏ|a
+
+Mais, le nom même de la langue n'est pas fait comme cela me direz-vous. Ceci m'amène au deuxième point du système d'écriture : 
+
+### Des blocs de lettres!
+
+Voici comment on peut lire le mot 한글 (Hangeul) : 
+
+![Hangeul](Hangeul.jpg)
 
 ## Un ordre particulier!
 
