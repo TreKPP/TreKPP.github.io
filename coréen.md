@@ -69,7 +69,9 @@ Les phrases sont faites dans l'ordre SOV en coréen. C'est-à-dire que l'on écr
 
 (Il est important de noter que les phrases sont conjuguées **de manière informelle**. Des formes plus polies et appropriées seront à apprendre si vous désirez poursuivre votre apprentissage du coréen.)
 
+<span style="color:blue">나는</span> <span style="color:red">사과를</span> <span style="color:green">먹는다</span>. (<span style="color:blue">Naneun</span> <span style="color:red">sagwareul</span> <span style="color:green">meokneunda</span>) signifiant *<span style="color:blue">Je</span> <span style="color:green">mange</span> <span style="color:red">une pomme</span>*.
 
+<span style="color:blue">남자는</span> <span style="color:red">고양이를</span> <span style="color:green">본다</span>. (<span style="color:blue">Namjaneun</span> <span style="color:red">goyangireul</span> <span style="color:green">bonda</span>.) signifiant *<span style="color:blue">L'homme</span> <span style="color:green">voit</span> <span style="color:red">le chat</span>*.
 
 ## Faites attention à comment vous vous adressez aux autres!
 
