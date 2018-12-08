@@ -1,7 +1,7 @@
 [**Retour à l'index**](indexLangues.md)
 # Mes conseils pour apprendre une langue!
 
-Voici ma façon de procéder lors de l'apprentissage d'une langue!
+Voici **ma façon de procéder** lors de l'apprentissage d'une langue!
 
 ## 1 - Commencer par apprendre quelques mots de base ainsi que la grammaire
 
@@ -26,7 +26,7 @@ Pour commencer à apprendre une langue je recommande de commencer par quelques m
 
 **Apprenez en priorité ce qui vous entoure**, et tentez de nommer les objets que vous voyez dans la langue que vous souhaitez apprendre.
 
-Pour la grammaire, apprendre à former des phrases simples, comment accorder les mots et comment prononcer est le plus important selon moi.
+Pour la grammaire, apprendre à former des phrases simples, comment accorder les mots et comment prononcer est le plus important selon moi. Vous pourrez approfondir la grammaire lorsque vous aurez maîtrisé la base.
 
 ## 2 - Écrire la langue
 
