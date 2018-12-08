@@ -112,6 +112,66 @@ Voici quelques expressions fréquemment utilisées :
 
 ## Un peu de vocabulaire!
 
+Quelques aliments :
+
+|Français|Coréen|Translittération|
+|-|-|-|
+|Pomme|사과|sagwa|
+|Fruit|과일|gwail|
+|Légume|야채|yachae|
+|Viande|고기|gogi|
+|Lait|우유|uyu|
+|Sucrerie|사탕|satang|
+|Pain|빵|ppang|
+|Eau|물|mul|
+|Hamburger|햄버거|haembeogeo|
+|Ramen|라면|ramyeon|
+
+Quelques animaux : 
+
+|Français|Coréen|Translittération|
+|-|-|-|
+|Chat|||
+|Chien|||
+|Oiseau|||
+|Poisson|||
+|Renard|||
+|Loup|||
+|Vache|||
+|Lapin|||
+|Cochon|||
+
+Quelques couleurs : 
+
+|Français|Coréen|Translittération|
+|-|-|-|
+|Blanc|||
+|Jaune|||
+|Vert|||
+|Bleu|||
+|Violet|||
+|Rouge|||
+|Orange|||
+|Violet|||
+|Brun|||
+|Gris|||
+|Noir|||
+
+Compter de un à dix :
+
+|Français|Coréen|Translittération|
+|-|-|-|
+|Un|||
+|Deux|||
+|Trois|||
+|Quatre|||
+|Cinq|||
+|Six|||
+|Sept|||
+|Huit|||
+|Neuf|||
+|Dix|||
+
 ## Bibliographie
 
 - Wikipédia. *List of languages by total number of speakers*, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
