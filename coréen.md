@@ -131,55 +131,55 @@ Quelques animaux :
 
 |Français|Coréen|Translittération|
 |-|-|-|
-|Chat|||
-|Chien|||
-|Oiseau|||
-|Poisson|||
-|Renard|||
-|Loup|||
-|Vache|||
-|Lapin|||
-|Cochon|||
+|Chat|고양이|goyangi|
+|Chien|개|gae|
+|Oiseau|새|sae|
+|Poisson|물고기|mulgogi|
+|Renard|여우|yeou|
+|Loup|늑대|neugdae|
+|Vache|소|so|
+|Lapin|토끼|tokki|
+|Cochon|돼지|dwaeji|
 
 Quelques couleurs : 
 
 |Français|Coréen|Translittération|
 |-|-|-|
-|Blanc|||
-|Jaune|||
-|Vert|||
-|Bleu|||
-|Violet|||
-|Rouge|||
-|Orange|||
-|Violet|||
-|Brun|||
-|Gris|||
-|Noir|||
+|Blanc|하얀|hayan|
+|Jaune|노랑|norang|
+|Vert|녹색|noksaek|
+|Bleu|파란|paran|
+|Violet|보라색|borasaek|
+|Rouge|빨간|ppalgan|
+|Orange|오렌지|orenji|
+|Rose|분홍|bunhong|
+|Brun|갈색|galsaek|
+|Gris|회색|hoesaek|
+|Noir|검은|geomeun|
 
 Compter de un à dix :
 
 |Français|Coréen|Translittération|
 |-|-|-|
-|Un|||
-|Deux|||
-|Trois|||
-|Quatre|||
-|Cinq|||
-|Six|||
-|Sept|||
-|Huit|||
-|Neuf|||
-|Dix|||
+|Un|일|il|
+|Deux|이|i|
+|Trois|삼|sam|
+|Quatre|사|sa|
+|Cinq|오|o|
+|Six|육|yuk|
+|Sept|칠|chil|
+|Huit|팔|pal|
+|Neuf|구|gu|
+|Dix|십|sip|
 
 ## Bibliographie
 
 - Wikipédia. *List of languages by total number of speakers*, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
 - MARTIN, Samuel E. *Korean Language*, 1er mars 2011, URL: https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/Korean-language/109804
 - AGER, Simon. *Index of languages by language family*, 2018, URL : http://www.omniglot.com/writing/langfam.htm
-- HOW TO STUDY KOREAN. Lesson 5: Korean Conjugation: Past, Present, Future, 2018. URL : https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-5/
-- HOW TO STUDY KOREAN.  Lesson 1 : Basic Korean Sentences, 2018, URL : https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-1/
-- INNOVATIVE LANGUAGE LEARNING. Korean Dictionary, 2018
-- Learn Korean with KoreanClass101.com. Learn Korean in 20 minutes - ALL the Basics You Need, 14 juillet 2017, URL: https://www.youtube.com/watch?v=ZinAK6n6cWU
-- Wikipédia. Hanja, 30 septembre 2018, URL : https://en.wikipedia.org/wiki/Hanja
-- Wikipédia. Hangul, 13 octobre 2018, URL : https://en.wikipedia.org/wiki/Hangul 
+- HOW TO STUDY KOREAN. *Lesson 5: Korean Conjugation: Past, Present, Future*, 2018. URL : https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-5/
+- HOW TO STUDY KOREAN. *Lesson 1 : Basic Korean Sentences*, 2018, URL : https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-1/
+- INNOVATIVE LANGUAGE LEARNING. *Korean Dictionary*, 2018
+- Learn Korean with KoreanClass101.com. *Learn Korean in 20 minutes - ALL the Basics You Need*, 14 juillet 2017, URL: https://www.youtube.com/watch?v=ZinAK6n6cWU
+- Wikipédia. *Hanja*, 30 septembre 2018, URL : https://en.wikipedia.org/wiki/Hanja
+- Wikipédia. *Hangul*, 13 octobre 2018, URL : https://en.wikipedia.org/wiki/Hangul 
