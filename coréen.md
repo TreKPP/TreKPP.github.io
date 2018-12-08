@@ -22,7 +22,7 @@ Le coréen possède un alphabet appelé *hangeul* (한글). Cet alphabet comport
 (Les sons sont représentés à l'aide d'une translittération)
 
 |Consonne|Son lorsque initiale|Son lorsque finale||Voyelle|Son|
-|-|-|-||ㅏ|a
+|-|-|-|-|-|-|
 |ㄱ|g|k||ㅐ|ae|
 |ㄲ|kk|k||ㅑ|ya
 |ㄴ|n|n||ㅒ|yae|
@@ -43,6 +43,7 @@ Le coréen possède un alphabet appelé *hangeul* (한글). Cet alphabet comport
 |ㅍ|p|p||ㅡ|eu
 |ㅎ|h|t||ㅢ|ui
 |||||ㅣ|i
+|||||ㅏ|a
 
 ## Un ordre particulier!
 
