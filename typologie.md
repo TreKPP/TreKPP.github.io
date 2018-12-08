@@ -1,3 +1,4 @@
+[**Retour à l'index**](indexLangues.md)
 # La typologie des langues, qu'est-ce que c'est ?
 
 La typologie des langues est un ensemble de catégories utilisées pour classer les langues ou les regrouper.
