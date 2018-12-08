@@ -52,7 +52,7 @@ Pour bien vous souvenir des mots que vous venez d'apprendre, je recommande forte
 
 ## 3 - Écouter des personnes parler la langue
 
-Nous avons maintenant la chance d'avoir accès à d'innombrables vidéos et médias sonores, **utilisez-les**! Entendre les personnes parler la langue vous habituera au rythme auquel nous devons parler, vous exercera à comprendre la langue oralement et vous indiquera comment vous devez prononcer la langue. Vous pouvez écouter des entrevues, des films, des émissions ou même des chansons dans la langue originale, sous-titrés au début, bien sûr, mais auquels vous finirez par ne plus en avoir besoin!
+Nous avons maintenant la chance d'avoir accès à d'innombrables vidéos et médias sonores, **utilisez-les**! Entendre les personnes parler la langue vous habituera au rythme auquel nous devons parler, vous exercera à comprendre la langue oralement et vous indiquera comment vous devez prononcer la langue. Vous pouvez écouter des entrevues, des films, des émissions ou même des chansons dans la langue originale, sous-titrés au début, bien sûr, mais vous finirez par ne plus en avoir besoin!
 
 ## 4 - Pratiquer oralement
 
