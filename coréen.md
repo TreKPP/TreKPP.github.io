@@ -104,7 +104,7 @@ Voici quelques expressions fréquemment utilisées :
 |Français|Coréen (Poli)|Translittération|Coréen (Informel)|Translittération|
 |-|-|-|-|-|
 |Bonjour, je suis [prénom]. Enchanté(e)|안녕하세요. [Prénom]예요. 반가워요.|Annyeonghaseyo. [Prénom]eyo. Bangawoyo|안녕. [Prénom]야. 반가워.|Annyeong. [Prénom] ya. Bangawo.|
-|Merci|감사합니다|Gamsahamnida||고마워|Gomawo|
+|Merci|감사합니다|Gamsahamnida|고마워|Gomawo|
 |Au revoir (lorsqu'on part)|아니에요|Annyeonghi gyeseyo|잘 있어|Jal isseo
 |Au revoir (lorsque quelqu'un part)|안녕히 가세요|Annyeonghi gaseyo|잘 가|Jal ga
 |Excusez-moi|실례함니다|Silryehamnida|-|-|
