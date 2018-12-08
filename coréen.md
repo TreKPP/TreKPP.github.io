@@ -95,13 +95,15 @@ Les coréens n'utilisent que rarement « tu » lorsqu'ils s'adressent à quelqu'
 
 On utilise seulement « tu » dans des situations informelles, entre amis par exemple (ou si l'on est des apprenants de la langue, puisque l'on est pas habitués à s'adresser à des vraies personnes).
 
+La formalité de la situation **change les conjugaisons des verbes et adjectifs** pour les rendre plus polis. 
+
 ## Des expression fréquemment utilisées!
 
 Voici quelques expressions fréquemment utilisées : 
 
 |Français|Coréen (Poli)|Translittération|Coréen (Informel)|Translittération|
 |-|-|-|-|-|
-|Bonjour, je suis [prénom]. Enchanté(e)|안녕하세요.[Prénom]예요.반가워요.|Annyeonghaseyo. [Prénom]eyo. Bangawoyo|안녕.[Prénom]야.반가워.|Annyeong. [Prénom] ya. Bangawo.|
+|Bonjour, je suis [prénom]. Enchanté(e)|안녕하세요. [Prénom]예요. 반가워요.|Annyeonghaseyo. [Prénom]eyo. Bangawoyo|안녕. [Prénom]야. 반가워.|Annyeong. [Prénom] ya. Bangawo.|
 |Merci|감사합니다|Gamsahamnida||고마워|Gomawo|
 |Au revoir (lorsqu'on part)|아니에요|Annyeonghi gyeseyo|잘 있어|Jal isseo
 |Au revoir (lorsque quelqu'un part)|안녕히 가세요|Annyeonghi gaseyo|잘 가|Jal ga
