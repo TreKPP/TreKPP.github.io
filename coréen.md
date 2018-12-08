@@ -59,6 +59,16 @@ On sépare donc le bloc en plusieurs parties qui sont les lettres qui ont été 
 
 On lit les blocs de gauche à droite, puis du haut vers le bas, tel que vous pouvez le voir dans l'exemple de 한글 (*Hangeul*) signifiant *coréen*.
 
+### Quelques caractères additionnels!
+
+Les caractères chinois sont parfois utilisés dans la langue coréenne, où ils sont connus par le nom *hanja*. Voici les principaux endroits où ils sont utilisés :
+
+- Clarifier des homophones
+- Littérature ancienne
+- Documents légaux
+- Dictionnaires (Ils indiquent le *hanja* d'origine si le mot a été emprunté au chinois)
+- Les noms propres
+
 ## Un ordre particulier!
 
 Les phrases sont faites dans l'ordre SOV en coréen. C'est-à-dire que l'on écrit le sujet, suivi de l'objet pour terminer la phrase avec le verbe. Quelques exemples faciliteront la compréhension de ce phénomène : 
@@ -71,11 +81,32 @@ Les phrases sont faites dans l'ordre SOV en coréen. C'est-à-dire que l'on écr
 
 <span style="color:blue">나는</span> <span style="color:red">사과를</span> <span style="color:green">먹는다</span>. (<span style="color:blue">Naneun</span> <span style="color:red">sagwareul</span> <span style="color:green">meokneunda</span>) signifiant *<span style="color:blue">Je</span> <span style="color:green">mange</span> <span style="color:red">une pomme</span>*.
 
-<span style="color:blue">남자는</span> <span style="color:red">고양이를</span> <span style="color:green">본다</span>. (<span style="color:blue">Namjaneun</span> <span style="color:red">goyangireul</span> <span style="color:green">bonda</span>.) signifiant *<span style="color:blue">L'homme</span> <span style="color:green">voit</span> <span style="color:red">le chat</span>*.
+<span style="color:blue">남자는</span> <span style="color:red">고양이를</span> <span style="color:green">본다</span>. (<span style="color:blue">Namjaneun</span> <span style="color:red">goyangireul</span> <span style="color:green">bonda</span>) signifiant *<span style="color:blue">L'homme</span> <span style="color:green">voit</span> <span style="color:red">le chat</span>*.
+
+<span style="color:blue">여자는</span> <span style="color:red">책을</span> <span style="color:green">쓴다</span>. (<span style="color:blue">Yeoja</span> <span style="color:red">chaekeun</span> <span style="color:green">sseunda</span>) signifiant *<span style="color:blue">Une femme</span> <span style="color:green">écrit</span> <span style="color:red">un livre</span>*.
 
 ## Faites attention à comment vous vous adressez aux autres!
 
+Les coréens n'utilisent que rarement « tu » lorsqu'ils s'adressent à quelqu'un d'autre. Ils vont généralement préférer les appeler par un titre, comme :
+
+- Leur position dans une entreprise
+- Leur titre de famille (exemple: 오빠 (oppa) - grand frère pour une fille), on peut également référer à des inconnus par ces titres.
+- Monsieur (아저씨 - Ajeossi) ou madame (아주머니 - ajumeoni)
+
+On utilise seulement « tu » dans des situations informelles, entre amis par exemple (ou si l'on est des apprenants de la langue, puisque l'on est pas habitués à s'adresser à des vraies personnes).
+
 ## Des expression fréquemment utilisées!
+
+Voici quelques expressions fréquemment utilisées : 
+
+|Français|Coréen (Poli)|Translittération|Coréen (Informel)|Translittération|
+|-|-|-|-|-|
+|Bonjour, je suis [prénom]. Enchanté(e)|안녕하세요.[Prénom]예요.반가워요.|Annyeonghaseyo. [Prénom]eyo. Bangawoyo|안녕.[Prénom]야.반가워.|Annyeong. [Prénom] ya. Bangawo.|
+|Merci|감사합니다|Gamsahamnida||고마워|Gomawo|
+|Au revoir (lorsqu'on part)|아니에요|Annyeonghi gyeseyo|잘 있어|Jal isseo
+|Au revoir (lorsque quelqu'un part)|안녕히 가세요|Annyeonghi gaseyo|잘 가|Jal ga
+|Excusez-moi|실례함니다|Silryehamnida|-|-|
+|Je suis désolé(e)|죄송합니다|Joisonghamnida|미안해|Mianhae
 
 ## Un peu de vocabulaire!
 
@@ -84,3 +115,9 @@ Les phrases sont faites dans l'ordre SOV en coréen. C'est-à-dire que l'on écr
 - Wikipédia. *List of languages by total number of speakers*, 12 octobre 2018, URL : https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
 - MARTIN, Samuel E. *Korean Language*, 1er mars 2011, URL: https://academic-eb-com.res.banq.qc.ca/levels/collegiate/article/Korean-language/109804
 - AGER, Simon. *Index of languages by language family*, 2018, URL : http://www.omniglot.com/writing/langfam.htm
+- HOW TO STUDY KOREAN. Lesson 5: Korean Conjugation: Past, Present, Future, 2018. URL : https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-5/
+- HOW TO STUDY KOREAN.  Lesson 1 : Basic Korean Sentences, 2018, URL : https://www.howtostudykorean.com/unit1/unit-1-lessons-1-8/unit-1-lesson-1/
+- INNOVATIVE LANGUAGE LEARNING. Korean Dictionary, 2018
+- Learn Korean with KoreanClass101.com. Learn Korean in 20 minutes - ALL the Basics You Need, 14 juillet 2017, URL: https://www.youtube.com/watch?v=ZinAK6n6cWU
+- Wikipédia. Hanja, 30 septembre 2018, URL : https://en.wikipedia.org/wiki/Hanja
+- Wikipédia. Hangul, 13 octobre 2018, URL : https://en.wikipedia.org/wiki/Hangul 
