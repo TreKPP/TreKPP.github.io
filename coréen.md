@@ -51,11 +51,25 @@ Mais, le nom même de la langue n'est pas fait comme cela me direz-vous. Ceci m'
 
 ### Des blocs de lettres!
 
-Voici comment on peut lire le mot 한글 (Hangeul) : 
+Voici comment on peut lire le mot 한글 (*Hangeul*) signifiant *coréen* : 
 
 ![Hangeul](Hangeul.jpg)
 
+On sépare donc le bloc en plusieurs parties qui sont les lettres qui ont été présentées plus haut!
+
+On lit les blocs de gauche à droite, puis du haut vers le bas, tel que vous pouvez le voir dans l'exemple de 한글 (*Hangeul*) signifiant *coréen*.
+
 ## Un ordre particulier!
+
+Les phrases sont faites dans l'ordre SOV en coréen. C'est-à-dire que l'on écrit le sujet, suivi de l'objet pour terminer la phrase avec le verbe. Quelques exemples faciliteront la compréhension de ce phénomène : 
+
+- Le sujet est écrit en <span style="color:blue">bleu</span>.
+- L'objet est écrit en <span style="color:red">rouge</span>.
+- Le verbe est écrit en <span style="color:green">vert</span>.
+
+(Il est important de noter que les phrases sont conjuguées **de manière informelle**. Des formes plus polies et appropriées seront à apprendre si vous désirez poursuivre votre apprentissage du coréen.)
+
+
 
 ## Faites attention à comment vous vous adressez aux autres!
 
