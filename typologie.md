@@ -36,7 +36,7 @@ Exemple de langue agglutinante : Japonais
 - ません (masen) : Négation, politesse
 - でした (deshita) : Passé, politesse
 
-Ce mot signifie donc *ne pas avoir été capable de manger*
+Ce mot signifie donc *ne pas avoir été capable de manger*.
 
 ### Famille de langue
 
