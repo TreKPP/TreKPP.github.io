@@ -15,7 +15,6 @@ Voici les langues proposées :
 - [Japonais](japonais.md)
 - [Coréen](coréen.md)
 - [Mandarin](mandarin.md)
-- [Arabe](arabe.md)
 
 ## Mais, comment dois-je m'y prendre pour apprendre une langue?
 
