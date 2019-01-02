@@ -218,8 +218,10 @@ Il existe différentes façons de référer à celui à qui on parle, bien que n
 | Vulgaire (Insultant) | 貴様 | Kisama |
 
 
-On utilise généralement le nom de famille auquel on ajoute *san* pour référer à quelqu'un dont nous ne sommes pas très proches.
-On utilise le prénom auquel on ajoute généralement *kun* si la personne est un garçon, ou *chan* si c'est une fille. 
+On utilise généralement le nom de famille auquel on ajoute *san（さん）* pour référer à quelqu'un dont nous ne sommes pas très proches.
+
+Pour des personnes plus jeunes ou du même âge, on utilise le prénom ou le nom de famille auquel on ajoute généralement *kun（くん）* si la personne est un garçon, ou *chan（ちゃん）* si c'est une fille. 
+
 On utilise seulement le nom ou prénom sans ajout si nous sommes proches de la personne.
 
 ### Exemple 
