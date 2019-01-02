@@ -170,7 +170,7 @@ Les trois systèmes sont utilisés en même temps dans une phrase. Les différen
 
 ## Parler à son patron ou son meilleur ami... Une différence importante!
 
-La langue japonaise est très caractérisée par la formalité du langage. En effet, selon le niveau de politesse que l'on souhaite atteindre, différentes conjugaisons des verbes et adjectifs seront utilisées, différentes façons de référer à nous-même ou l'interlocuteur, et différents mots seront utilisés. 
+La langue japonaise est très caractérisée par la formalité du langage. En effet, selon le niveau de politesse que l'on souhaite atteindre, différentes conjugaisons des verbes et adjectifs, différentes façons de référer à nous-même ou l'interlocuteur et différents mots seront utilisés. 
 
 ### Conjugaison des verbes
 
