@@ -107,7 +107,7 @@ Certains caractères ont des prononciations irrégulières :
 - Wo (を) -> O
 - Zi (じ) -> Ji
 - Di (ぢ) -> Ji
-- Du (ず) -> Dzu
+- Du (づ) -> Dzu
 
 Les hiraganas sont utilisés pour les mots d'origine japonaise qui n'ont pas de kanji(s), dont le ou les kanji(s) sont désuets et pour les conjugaisons des verbes principalement.
 
