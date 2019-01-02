@@ -246,8 +246,10 @@ Nous pouvons voir dans ces exemples que le verbe « manger » a plusieurs formes
 ### Quel niveau de politesse dois-je employer ? 
 
 Nous devons utiliser le langage formel lorsque l'on s'adresse à nos supérieurs, des gens plus âgés et des personnes que l'on ne connait pas.
+
 Nous pouvons utiliser le langage informel avec nos amis et avec des personnes plus jeunes que nous.
-Les femmes utilisent le langage formel plus souvent, même avec des personnes plus jeunes ou avec des amis.
+
+Les femmes utilisent le langage formel plus systématiquement, même avec des personnes plus jeunes ou avec des amis.
 
 ## Bonjour, merci, désolé... Des expressions fréquemment utilisées!
 
