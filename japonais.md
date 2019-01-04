@@ -1,5 +1,5 @@
 [**Retour à l'index**](indexLangues.md)
-# La langue japonaise
+# La langue japonaise (日本語)
 
 ## En bref
 
