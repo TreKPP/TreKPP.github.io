@@ -4,7 +4,7 @@ Si vous souhaitez passer immédiatement à l'index des langues, cliquez [ici](in
 
 ## Multilingue, qu'est-ce que c'est? Pourquoi devrais-je l'être?
 
-Être multilingue est avoir la capacité de communiquer en plus d'une langue, tout simplement. Vous demanderez-vous peut-être alors *« Pourquoi devrais-je apprendre une autre langue? Qu'est-ce que ça peut bien m'apporter? Ça ne ferait que m'ajouter du travail en plus. »* Bien sûr, apprendre une langue est un travail assez grand en soit, mais y parvenir offre de nombreux avantages, autant d'ordre intellectuel que culturel. Certains peuvent penser qu'être multilingue est exceptionnel ou rare mais, au contraire, 60 à 75% de la population mondiale peut parler au moins deux langues. Être monolingue est donc minoritaire. Surpris? Commençons donc à voir ces avantages!
+Être multilingue est avoir la capacité de communiquer en plus d'une langue, tout simplement. Vous demanderez-vous peut-être alors *« Pourquoi devrais-je apprendre une autre langue? Qu'est-ce que ça peut bien m'apporter? Ça ne ferait que m'ajouter du travail en plus. »* Bien sûr, apprendre une langue est un travail assez grand en soit, mais y parvenir offre de nombreux avantages, autant d'ordre intellectuel que culturel. Certains peuvent penser qu'être multilingue est exceptionnel ou rare, mais contrairement à cette idée reçue, 60 à 75% de la population mondiale peut parler au moins deux langues. Être monolingue est donc minoritaire. Commençons donc à voir ces avantages!
 
 ### Un nouveau point de vue!
 
