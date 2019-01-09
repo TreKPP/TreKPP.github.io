@@ -11,7 +11,7 @@
 | **Système d'écriture** | Hangul |
 | **Nombre de locuteurs natifs** | 77.2 millions |
 
-Le japonais comporte divers niveaux de formalité selon à qui l'on s'adresse.
+Le coréen comporte divers niveaux de formalité selon à qui l'on s'adresse.
 
 Si vous n'êtes pas familier avec ces termes, vous pouvez vous rendre à [cette page](typologie.md) pour les clarifier!
 
