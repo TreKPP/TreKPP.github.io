@@ -8,15 +8,15 @@ Si vous souhaitez passer immédiatement à l'index des langues, cliquez [ici](in
 
 ### Un nouveau point de vue!
 
-Surprenamment peut-être, l'apprentissage d'une nouvelle langue nous ouvre sur de nouveaux points de vue, chose que nous avons pu remarquer lors d'une expérience effectuée par Susan Ervin-Tripp dans les années 1960 : Une femme bilingue, parlant l'anglais et le japonais répondait de **manière différente selon la langue dans laquelle elle répondait**, comme si la langue lui offrait une vision différente du même problème. Par exemple, lorsqu'on lui demandait de compléter la phrase « Quand mes souhaits sont en conflits avec ma famille... » elle répondait par « Je fais ce que je veux. » lorsqu'on lui disait la phrase en anglais, mais répondait par « C'est un temps de grande tristesse » lorsque la phrase lui était dite en en japonais. 
+Surprenamment peut-être, l'apprentissage d'une nouvelle langue nous ouvre à de nouveaux points de vue, chose que nous avons pu remarquer lors d'une expérience effectuée par Susan Ervin-Tripp lors des années 1960. Dans cette expérience, une femme bilingue parlant l'anglais et le japonais répondait de **manière différente selon la langue dans laquelle elle répondait**, comme si la langue lui offrait une vision différente du même problème. Par exemple, lorsqu'on lui demandait de compléter la phrase « Quand mes souhaits sont en conflits avec ma famille... » elle répondait par « Je fais ce que je veux. » lorsqu'on lui disait la phrase en anglais, mais répondait par « C'est un temps de grande tristesse » lorsque la phrase lui était dite en en japonais. 
 
-Il a aussi été montré que les gens bilingues réussissent mieux les tests sur l'**empathie**, sur l'interprétation des sentiments des autres. 
+Il a aussi été montré que les gens bilingues réussissent mieux les tests sur l'**empathie** et sur l'interprétation des sentiments des autres. 
 
 ### Bon pour la santé! 
 
-Le multilinguisme réduirait les risques de problèmes cérébraux qui apparaissent lorsque nous vieillissons, ou les repousserait de quelques années. On a par exemple remarqué que chez des patients similaires, l'Alzheimer se développe **4 ou 5 ans plus tard** chez les multilingues. On remarque aussi un phénomène similaire chez des patients atteints de démence.
+Le multilinguisme réduirait les risques de problèmes cérébraux qui apparaissent lorsque nous vieillissons, ou les repousserait de quelques années. On a par exemple remarqué une tendance où, chez des patients similaires, l'Alzheimer se développe **4 ou 5 ans plus tard** chez les patients multilingues que chez ceux ne parlant qu'une seule langue. On remarque aussi un phénomène similaire chez des patients atteints de démence.
 
-Une étude faite par Thomas H. Bak a aussi montré que les survivants multilingues d'un accident vasculaire cérébral semblent avoir **deux fois plus de chance** que les monolingues de se rétablir.
+Une étude faite par Thomas H. Bak a aussi montré que les survivants multilingues d'un accident vasculaire cérébral semblent avoir **deux fois plus de chance** que les survivants monolingues de bien se rétablir de cet accident.
 
 ### Bon pour le cerveau!
 
@@ -24,9 +24,9 @@ Nous avons remarqué que le multilinguisme est souvent associé à une plus gran
 
 Ces avantages sont vus particulièrement dans les écoles offrant des programmes bilingues où une partie de la journée est dans une langue et l'autre dans une autre langue. Gregg Roberts, avec l'Office d'État de l'Éducation de l'état de l'Utah a remarqué que les étudiants de ces programmes semblent avoir d'**aussi bons ou même meilleurs résultats** que leurs pairs dans les programmes réguliers, et ce dans toutes les matières. Ces élèves semblent aussi avoir une **plus grande estime d'eux-mêmes et une meilleure capacité de concentration** en général.
 
-Lorsque nous connaissons plusieurs langues, le cerveau est en conflit constant entre les langues, puisqu'il doit contenir les autres langues pour ne pas qu'elles interfèrent si l'on en a pas besoin, ce qui rend le cerveau plus performant.
+Lorsque nous connaissons plusieurs langues, le cerveau est en conflit constant entre les langues puisqu'il doit contenir les autres langues pour ne pas qu'elles interfèrent si l'on en a pas besoin, ce qui rend le cerveau plus performant.
 
-Il est important de prendre en compte qu'**aucune étude n'a montré que le multilinguisme diminue la performance**.
+Il est important de prendre en compte qu'**aucune étude n'a montré que le multilinguisme diminue la performance des individus l'étant**.
 
 Il est aussi intéressant de savoir que les cerveaux multilingues sont distinguables des cerveaux monolingues lors de scans, puisque les cerveaux multilingues ont **plus de matière grise** dans la partie avant du cerveau.
 
